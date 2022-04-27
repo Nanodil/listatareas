@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Titulo ></Titulo>
-      <Subtitulo comision='16i' estado={true}/>
+      <Subtitulo comision='13i' estado={true}/>
       <FormTareas></FormTareas>
     </>
   );
